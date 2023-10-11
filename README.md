@@ -22,13 +22,13 @@
 | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) | <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) |
 | ![혜지](https://github.com/mini-min/KHUDA-Algorithm-Study/assets/69389288/9fe56b78-74ea-4ff0-a646-a723f03c7077) | ![민서](https://github.com/mini-min/KHUDA-Algorithm-Study/assets/69389288/f34c1ab6-ef44-424f-acdc-9187ce6d0f7a) | ![성은](https://github.com/mini-min/KHUDA-Algorithm-Study/assets/69389288/6df6ff46-d57e-444a-8cee-b664f858ca04) | <img width="305" alt="스크린샷 2023-10-03 오후 10 10 23" src="https://github.com/mini-min/KHUDA-Algorithm-Study/assets/69389288/f3eb8be5-33e7-4b80-98fa-9234b90a8040"> | ![채연](https://github.com/mini-min/KHUDA-Algorithm-Study/assets/69389288/6c27986d-32d1-4e79-bb8c-ccfd0a458274) |
 | [유혜지 hyejiyu](https://github.com/hyejiyu) | [조민서 Minseo-Jo](https://github.com/Minseo-Jo) | [임성은 esensy](https://github.com/esensy) | [한주상 H-Software224](https://github.com/H-Software224) | [한채연 intelsally](https://github.com/intelsally) |
-| ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)  | <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)  | <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) |
 
 <br>
 
 ## 🌱 Study Guideline
 1. "KHUDA-Algorithm-Study" 레포를 `fork`하고, 개인 폴더를 생성한다.
-2. 매주 `Issue`를 생성하고, 한주의 작업은 `본인 깃헙 아이디/#1`의 이름으로 판 `Branch`에서 작업한다.
+2. 매주 `Issue`를 생성하고, 한주의 작업은 `feature/#이슈번호`의 이름으로 판 `Branch`에서 작업한다.
 3. 알고리즘 풀이 후 `Commit-Push`한다.
 4. 한 주 풀이가 모두 끝나면 `PR(Pull Request)`을 요청하고, 스터디원들의 `Code Review`를 진행한다.
 5. 코드 리뷰 후, `Merge`
@@ -83,9 +83,9 @@
 | 순번 | 중급 커리큘럼 | 초급 커리큘럼 | 민재 | 소영 | 상영 | 주명 | 준혁 | 혜지 | 민서 | 성은 | 주상 | 채연 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Week 0 (23.10.10) | OT | OT |
-| Week 1 (23.10.31) | 문자열, 리스트 조작 | 코테 입문 1-10 |
-| Week 2 (23.11.09) | 선형 자료구조 | 코테 입문 11-15 |
-| Week 3 (23.11.14) | 비선형 자료구조 | 코테 입문 16-20 |
-| Week 4 (23.11.23) | 알고리즘 (1) | 코테 입문 21-25 |
-| Week 5 (23.11.28) | 알고리즘 (2) | Lv.1-2 챌린지 |
-| Week 6 (23.12.07) | 미니 코테 (중급) | 미니 코테 (초급) |
+| Week 1 (23.11.02) | 문자열, 리스트 조작 | 코테 입문 1-10 |
+| Week 2 (23.11.07) | 선형 자료구조 | 코테 입문 11-15 |
+| Week 3 (23.11.16) | 비선형 자료구조 | 코테 입문 16-20 |
+| Week 4 (23.11.21) | 알고리즘 (1) | 코테 입문 21-25 |
+| Week 5 (23.11.30) | 알고리즘 (2) | Lv.1-2 챌린지 |
+| Week 6 (23.12.05) | 미니 코테 (중급) | 미니 코테 (초급) |
